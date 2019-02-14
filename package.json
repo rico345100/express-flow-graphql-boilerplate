@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rico345100/nodejs-flow-basic-boilerplate"
+    "url": "https://github.com/rico345100/express-flow-graphql-boilerplate"
   },
   "keywords": [
     "node.js",

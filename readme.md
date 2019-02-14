@@ -28,7 +28,7 @@ Open your browser and connect to [http://localhost:4000/graphql](http://localhos
 To just build, type:
 
 ```bash
-$ npm build-dev
+$ npm run build-dev
 ```
 
 However in development environment, I recommend to you use:
